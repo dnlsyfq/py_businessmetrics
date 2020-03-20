@@ -59,3 +59,7 @@ NPS is then calculated as the percentage of promoters minus the percentage of de
 * Promoters - Extremely satisfied customers who will act as brand ambassadors.
 
 NPS can range between -100% (if everyone is a detractor) and 100% (if everyone is a promoter).
+
+*i.e Customer Churn Analysis , when a customer stops being a customer, we say the customer has churned
+
+Churn rate is the percentage of customers that churned in a given time period.
