@@ -58,3 +58,4 @@ NPS is then calculated as the percentage of promoters minus the percentage of de
 
 * Promoters - Extremely satisfied customers who will act as brand ambassadors.
 
+NPS can range between -100% (if everyone is a detractor) and 100% (if everyone is a promoter).
